@@ -11,3 +11,6 @@ https://stackoverflow.com/questions/44597662/conda-command-is-not-recognized-on-
 
 ## IDE
 https://www.jetbrains.com/pycharm/?fromMenu
+
+## Methods
+https://www.programiz.com/python-programming/methods/string
